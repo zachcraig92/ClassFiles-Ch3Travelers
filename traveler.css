@@ -1,2 +1,37 @@
 /* Traveler Times style sheet, by Jessica Miller */
+body {
+    font-family: "veranda", "geneva", sans-serif;
+    font-size: 12pt;
+}
+h1{
+    background-color: black;
+    color:white;
+    font-size: 2em;
+    text-align: center;
+}
+h2,h3{
+    background-color: #336699;
+    color: white;
+}
+a{
+    color: #151B54; 
+    font-weight: bold;
+    text-decoration: none;
+}
+ol{
+    list-style-type: upper-roman;
+}
+ol,ul{
+    background-color: #cccccc;
+}
+p{
+    text-align: justify;
+    text-indent: 2em;
+}
+#dublineer{
+    font-style: italic;
+}
+.figure{
+    text-align:center;
+}
 
